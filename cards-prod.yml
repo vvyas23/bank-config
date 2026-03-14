@@ -1,0 +1,12 @@
+
+build:
+  version: "6.0"
+
+cards:
+  message: "Welcome to bank cards related prod APIs"
+  contactDetails:
+    name: "Ankush Chopade"
+    email: "ankush@email.com"
+  onCallSupport:
+    - 7475849385
+    - 9593857485

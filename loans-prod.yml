@@ -1,0 +1,12 @@
+
+build:
+  version: "4.0"
+
+accounts:
+  message: "Welcome to bank loans related prod APIs"
+  contactDetails:
+    name: "Ankush Chopade"
+    email: "ankush@email.com"
+  onCallSupport:
+    - 7475849385
+    - 9593857485

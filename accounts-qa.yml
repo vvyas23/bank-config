@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to bank accounts related QA APIs"
+  contactDetails:
+    name: "Smita QA lead"
+    email: "smita@email.com"
+  onCallSupport:
+    - 7475849385
+    - 9593857485

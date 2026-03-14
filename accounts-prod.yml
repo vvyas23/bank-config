@@ -1,0 +1,17 @@
+#We do not need these properties as we will now be using Spring Cloud approaches and not Spring boot for this configuration
+#spring:
+#  config:
+#    activate:
+#      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to bank accounts related prod APIs"
+  contactDetails:
+    name: "Ankush Chopade"
+    email: "ankush@email.com"
+  onCallSupport:
+    - 7475849385
+    - 9593857485

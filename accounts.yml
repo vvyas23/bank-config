@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to bank accounts related local APIs"
+  contactDetails:
+    name: "Vaibhav Vyas"
+    email: "vaibhav@email.com"
+  onCallSupport:
+    - 7475849385
+    - 9593857485

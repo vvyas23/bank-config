@@ -1,0 +1,12 @@
+
+build:
+  version: "1.4"
+
+cards:
+  message: "Welcome to bank cards related local APIs"
+  contactDetails:
+    name: "Vaibhav Vyas"
+    email: "vaibhav@email.com"
+  onCallSupport:
+    - 7475849385
+    - 9593857485
