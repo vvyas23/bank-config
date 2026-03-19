@@ -11,7 +11,7 @@ accounts:
   message: "Welcome to bank accounts related prod APIs"
   contactDetails:
     name: "Ankush Chopade"
-    email: "ankush@email.com"
+    email: "{cipher}ada44aa22a0a7fdd0c27e85cfbb2512c949fc5a84ef9cf73eb962fbd650dd52c6785aae0cfb2de91fac3bb0c61ce7431"
   onCallSupport:
     - 7475849385
     - 9593857485
