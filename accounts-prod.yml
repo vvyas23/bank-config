@@ -8,7 +8,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to bank accounts related prod APIs"
+  message: "Welcome to bank accounts related production APIs"
   contactDetails:
     name: "Ankush Chopade"
     email: "{cipher}ada44aa22a0a7fdd0c27e85cfbb2512c949fc5a84ef9cf73eb962fbd650dd52c6785aae0cfb2de91fac3bb0c61ce7431"
