@@ -6,7 +6,9 @@ eureka:
     hostname: localhost
   client:
     fetchRegistry: false
+    # Eureka server will not fetch registration details from other microservices, Eureka will never call other microservices. Other will call Eureka 
     registerWithEureka: false
+    # Eureka server will never register itself and will never expose itself in the service registry
     serviceUrl:
       defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
     
